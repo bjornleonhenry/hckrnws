@@ -30,7 +30,7 @@
 			<a href="/" class="btn btn-primary flex items-center text-xl">
 				<Icon icon="ion:logo-hackernews" class="h-7 w-7" />
 				<div class="flex items-start gap-1">
-					<div>hckrnws</div>
+					<div>hckrnwz</div>
 					<!-- <div class="text-xs">beta</div> -->
 				</div>
 			</a>

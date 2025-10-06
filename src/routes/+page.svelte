@@ -5,11 +5,11 @@
 <div class="mt-10 flex flex-col items-center justify-start">
 	<h1 class="text-7xl font-extrabold lg:text-9xl">
 		<div class="flex items-center gap-2">
-			<div class="drop-shadow">hckrnws</div>
+			<div class="drop-shadow">hckrnwz</div>
 		</div>
 	</h1>
 	<p>
-		Visit <a class="text-primary underline" href="https://github.com/engageintellect/hckrnws"
+		Visit <a class="text-primary underline" href="https://github.com/bjornleonhenry/hckrnwz"
 			>repo</a
 		>
 		to read the documentation
@@ -40,7 +40,7 @@
 	</div>
 	<div class="card bg-base-200 shadow">
 		<div class="card-body">
-			<strong class="text-primary">hckrnws</strong>
+			<strong class="text-primary">hckrnwz</strong>
 			A modern UI for Hacker News. It is built using SvelteKit, TailwindCSS, and TypeScript. The project
 			is open-source and available on GitHub. The app is designed to be fast, responsive, and accessible.
 			It is also a great example of how to build a modern web app using the latest web technologies.

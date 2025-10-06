@@ -30,7 +30,7 @@ A modern Hacker News clone built with SvelteKit, featuring a clean interface for
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd hckrnws
+cd hckrnwz
 ```
 
 2. Install dependencies:
